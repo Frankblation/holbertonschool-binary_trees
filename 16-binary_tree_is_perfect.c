@@ -60,7 +60,7 @@ int maxDepth(const binary_tree_t *node)
 			return (lD + 1);
 		}
 		else
-        {
+		{
 			return (rD + 1);
 		}
 	}
